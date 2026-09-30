@@ -88,7 +88,7 @@
     var bar = document.createElement('div');
     bar.id = 'cookie-consent-banner';
     bar.innerHTML =
-      '<span>Используем cookie для аналитики. <a href="/politika-konfidencialnosti/">Подробнее</a></span>' +
+      '<span>Используем cookie для аналитики. <a href="/krov-master-fundament-onepage-preview/politika-konfidencialnosti/">Подробнее</a></span>' +
       '<button type="button" id="cookie-consent-accept">Принять</button>';
     document.body.appendChild(bar);
 
